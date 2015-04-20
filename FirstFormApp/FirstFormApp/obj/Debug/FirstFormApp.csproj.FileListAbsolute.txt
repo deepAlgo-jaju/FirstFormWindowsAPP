@@ -1,0 +1,9 @@
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe.config
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.pdb
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csprojResolveAssemblyReference.cache
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Form1.resources
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Properties.Resources.resources
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.GenerateResource.Cache
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.exe
+C:\Users\JaJu\Documents\GitHub\FirstFormWindowsAPP\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.pdb
